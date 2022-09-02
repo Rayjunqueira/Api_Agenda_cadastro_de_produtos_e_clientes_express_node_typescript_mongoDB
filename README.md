@@ -29,7 +29,7 @@ PORT = (porta da máquina onde vai rodar aplicação)
 
 1 - Clone o repositório
 
-    git clone https://github.com/Routfin/API_Auth_PostgreSQL_Jwt_TypeORM_Express_Typescript.git
+    git clone https://github.com/Routfin/Api_Agenda_cadastro_de_produtos_e_clientes_express_node_typescript_mongoDB.git
 
 2 - Instalar os pacotes NPM
 
